@@ -1,0 +1,1 @@
+python "D:\Developed\Automation\GalleryDownloader\thumbnailsDownloader.py" links.opml >>log.txt

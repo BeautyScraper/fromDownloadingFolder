@@ -1,0 +1,1 @@
+python "D:\Developed\Automation\python\sinisterLinks.py" "C:\temp\SelectedVideos" >> "D:\Developed\Automation\GalleryDownloader\galleryLinks.opml"
