@@ -1,3 +1,4 @@
+python "D:\Developed\Automation\python\duplicateLineRem.py"
 start "" python "D:\Developed\Automation\GalleryDownloader\galleryCrawler.py" "D:\Developed\Automation\GalleryDownloader\StaticLinks.opml"
 start "" "D:\Developed\Automation\sinisterGramV2\startSinning.bat"
 python "D:\Developed\Automation\python\sinisterLinks.py" "C:\temp\SelectedVideos" >> "D:\Developed\Automation\GalleryDownloader\galleryLinks.opml"
